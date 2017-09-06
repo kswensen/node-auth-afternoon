@@ -4,8 +4,12 @@
   "description": "Node Auth 1 - Afternoon",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.3",
-    "express-session": "^1.15.3"
+    "express": "^4.15.4",
+    "express-session": "^1.15.3",
+    "express-sessions": "^1.0.6",
+    "passport": "^0.4.0",
+    "passport-auth0": "^0.6.0",
+    "request": "^2.81.0"
   },
   "devDependencies": {},
   "scripts": {
